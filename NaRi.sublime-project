@@ -17,7 +17,7 @@
             "name": "Maven",
             "keyfiles":["pom.xml"],
             "working_dir": "${project_path}",
-            "file_regex": "^ERROR in (.+)\\(([0-9]+),([0-9]+)\\): (.*)$",
+            "file_regex": "^\\[ERROR\\] (.+):\\[([0-9]+),([0-9]+)\\] (.*)$",
             "encoding": "UTF-8",
             "variants":
             [

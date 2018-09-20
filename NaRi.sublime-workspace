@@ -7,14 +7,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "README.md",
-			"settings":
-			{
-				"buffer_size": 181,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "Maven",
 	"build_system_choices":
@@ -104,7 +96,7 @@
 			]
 		]
 	],
-	"build_varint": "install",
+	"build_varint": "",
 	"command_palette":
 	{
 		"height": 0.0,
@@ -144,13 +136,12 @@
 	},
 	"expanded_folders":
 	[
-		"/home/romuald/Projects/NaRi"
 	],
 	"file_history":
 	[
+		"/home/romuald/Projects/NaRi/src/test/java/com/github/romualdrousseau/nari/AppTest.java",
 		"/home/romuald/Projects/NaRi/NaRi.sublime-project",
 		"/home/romuald/Projects/NaRi/pom.xml",
-		"/home/romuald/Projects/NaRi/src/test/java/com/github/romualdrousseau/nari/AppTest.java",
 		"/home/romuald/Projects/NaRi/src/main/java/com/github/romualdrousseau/nari/GeoLocation.java",
 		"/home/romuald/Projects/NaRi/src/main/java/com/github/romualdrousseau/nari/GeoData.java",
 		"/home/romuald/Downloads/geo-1.0/src/org/geo/Test.java",
@@ -273,37 +264,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "README.md",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 181,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								181,
-								181
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
