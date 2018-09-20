@@ -1,0 +1,55 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		},
+		{
+			"path": "src/main"
+		},
+		{
+			"path": "src/test"
+		}
+	],
+	"build_systems":
+    [
+        {
+            "name": "Maven",
+            "keyfiles":["pom.xml"],
+            "working_dir": "${project_path}",
+            "file_regex": "^ERROR in (.+)\\(([0-9]+),([0-9]+)\\): (.*)$",
+            "encoding": "UTF-8",
+            "variants":
+            [
+                {
+                    "name": "compile",
+                    "shell_cmd": "mvn clean compile"
+                },
+                {
+                    "name": "build",
+                    "shell_cmd": "mvn clean package"
+                },
+                {
+                    "name": "install",
+                    "shell_cmd": "mvn clean install"
+                },
+                {
+                    "name": "commit changes",
+                    "shell_cmd": "mvn scm:checkout"
+                },
+                {
+                    "name": "pull changes",
+                    "shell_cmd": "mvn scm:checkin"
+                },
+                {
+                    "name": "deploy",
+                    "shell_cmd": "mvn clean package deploy"
+                },
+                {
+                    "name": "build documentation",
+                    "shell_cmd": "mvn clean package -P documentation"
+                }
+            ]
+        }
+    ]
+}

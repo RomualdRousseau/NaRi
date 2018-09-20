@@ -1,0 +1,400 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 181,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Maven",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Maven",
+					""
+				],
+				[
+					"Maven",
+					"compile"
+				],
+				[
+					"Maven",
+					"build"
+				],
+				[
+					"Maven",
+					"build all"
+				],
+				[
+					"Maven",
+					"commit changes"
+				],
+				[
+					"Maven",
+					"pull changes"
+				],
+				[
+					"Maven",
+					"deploy"
+				],
+				[
+					"Maven",
+					"run"
+				],
+				[
+					"Maven",
+					"build documentation"
+				]
+			],
+			[
+				"Maven",
+				"build"
+			]
+		],
+		[
+			[
+				[
+					"Maven",
+					""
+				],
+				[
+					"Maven",
+					"compile"
+				],
+				[
+					"Maven",
+					"build"
+				],
+				[
+					"Maven",
+					"install"
+				],
+				[
+					"Maven",
+					"commit changes"
+				],
+				[
+					"Maven",
+					"pull changes"
+				],
+				[
+					"Maven",
+					"deploy"
+				],
+				[
+					"Maven",
+					"build documentation"
+				]
+			],
+			[
+				"Maven",
+				"install"
+			]
+		]
+	],
+	"build_varint": "install",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instak",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax",
+				"Set Syntax: YAML"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/romuald/Projects/NaRi"
+	],
+	"file_history":
+	[
+		"/home/romuald/Projects/NaRi/NaRi.sublime-project",
+		"/home/romuald/Projects/NaRi/pom.xml",
+		"/home/romuald/Projects/NaRi/src/test/java/com/github/romualdrousseau/nari/AppTest.java",
+		"/home/romuald/Projects/NaRi/src/main/java/com/github/romualdrousseau/nari/GeoLocation.java",
+		"/home/romuald/Projects/NaRi/src/main/java/com/github/romualdrousseau/nari/GeoData.java",
+		"/home/romuald/Downloads/geo-1.0/src/org/geo/Test.java",
+		"/home/romuald/Projects/NaRi/src/main/java/com/github/romualdrousseau/nari/GeoCache.java",
+		"/home/romuald/Projects/NaRi/src/main/java/com/github/romualdrousseau/nari/GeoException.java",
+		"/home/romuald/Projects/NaRi/src/main/java/com/github/romualdrousseau/nari/GeoFilter.java",
+		"/home/romuald/Projects/NaRi/src/main/java/com/github/romualdrousseau/nari/GeoPoint.java",
+		"/home/romuald/Projects/NaRi/README.md",
+		"/home/romuald/Projects/TalendComponents/tShujuTransformOut/tShujuTransformOut_java.xml",
+		"/home/romuald/Projects/TalendComponents/tShujuTransformIn/tShujuTransformIn_java.xml",
+		"/home/romuald/Projects/Talend/tSortOut/tSortOut_java.xml",
+		"/home/romuald/Projects/Talend/tSortOut/export_external_sort.jardesc",
+		"/home/romuald/Projects/TalendComponents/tShujuTransformIn/tShujuTransformIn_messages.properties",
+		"/home/romuald/Projects/Talend/tSortIn/tSortIn_messages.properties",
+		"/home/romuald/Projects/Talend/tSortIn/tSortIn_java.xml",
+		"/home/romuald/Projects/TalendComponents/tShujuTransform/tShujuTransform_messages.properties",
+		"/home/romuald/Projects/TalendComponents/tShujuTransform/tShujuTransform_java.xml",
+		"/home/romuald/Projects/TalendComponents/tShujuTransformIn/tShujuTransformIn_begin.javajet",
+		"/home/romuald/Bin/TOS_BD-20180411_1414-V7.0.1/plugins/org.talend.designer.components.localprovider_7.0.1.20180411_1414/components/tSortIn/tSortIn_begin.javajet",
+		"/home/romuald/Bin/TOS_BD-20180411_1414-V7.0.1/plugins/org.talend.designer.components.localprovider_7.0.1.20180411_1414/components/tSortIn/tSortIn_end.javajet",
+		"/home/romuald/Bin/TOS_BD-20180411_1414-V7.0.1/plugins/org.talend.designer.components.localprovider_7.0.1.20180411_1414/components/tSortOut/tSortOut_main.javajet",
+		"/home/romuald/Bin/TOS_BD-20180411_1414-V7.0.1/plugins/org.talend.designer.components.localprovider_7.0.1.20180411_1414/components/tSortOut/tSortOut_begin.javajet",
+		"/home/romuald/Bin/TOS_BD-20180411_1414-V7.0.1/plugins/org.talend.designer.components.localprovider_7.0.1.20180411_1414/components/tSortOut/tSortOut_end.javajet",
+		"/home/romuald/Bin/TOS_BD-20180411_1414-V7.0.1/plugins/org.talend.designer.components.localprovider_7.0.1.20180411_1414/components/tSortRow/tSortRow_messages.properties",
+		"/home/romuald/Projects/TalendComponents/tQueryGeospatial/tQueryGeospatial_java.xml",
+		"/home/romuald/Projects/TalendComponents/tQueryGeospatial/tQueryGeospatial_messages.properties",
+		"/home/romuald/Projects/References/Delta/Mowa/graphics/GeoNode.h",
+		"/mnt/07061c8c-78ba-44e6-aacc-c7dc3d97cfd2/Backup/Backup_20180503/Talend/user_components/tAddLocationFromQuery/tAddLocationFromQuery_java.xml",
+		"/home/romuald/Projects/TalendComponents/tExtractFields/tExtractFields_java.xml",
+		"/home/romuald/Projects/Processing/libraries/ShuJu/examples/LineFollower/LineFollower.pde",
+		"/home/romuald/Projects/ShuJu/Processing/ShuJu/examples/LineFollower/LineFollower.pde",
+		"/home/romuald/Projects/ShuJu/Processing/ShuJu/examples/Fisher/Fisher.pde",
+		"/home/romuald/Projects/Processing/libraries/ShuJu/examples/LineFollower/Car.pde",
+		"/run/media/romuald/VAMOS 2012/Readme.txt",
+		"/run/media/romuald/D01E-C8C1/Backup_20180130/Processing/test/test.pde",
+		"/home/romuald/Projects/TalendComponents/tExtractFields/tExtractFields_main.javajet",
+		"/home/romuald/Projects/Talend/TOS_BD/user_components/tExtractFields/tExtractFields_icon32.png",
+		"/home/romuald/Projects/Talend/TOS_BD/user_components/tExtractFields/tExtractFields_main.javajet",
+		"/home/romuald/.config/sublime-text-3/Packages/User/Java Server Pages (JSP).sublime-settings",
+		"/opt/sublime_text/toto.txt",
+		"/C/Users/RRU_CN1/Desktop/TOS_BD-20180411_1414-V7.0.1/user_components/TalendComponents.sublime-project",
+		"/C/Users/RRU_CN1/Desktop/TOS_BD-20180411_1414-V7.0.1/user_components/.editorconfig",
+		"/C/Users/RRU_CN1/Desktop/TOS_BD-20180411_1414-V7.0.1/user_components/tSampleRow/tSampleRow_messages.properties",
+		"/C/Users/RRU_CN1/Desktop/TOS_BD-20180411_1414-V7.0.1/user_components/tSampleRow/tSampleRow_java.xml",
+		"/C/Users/RRU_CN1/Desktop/TOS_BD-20180411_1414-V7.0.1/user_components/tExtractField/tExtractField_messages.properties",
+		"/C/Users/RRU_CN1/Desktop/TOS_BD-20180411_1414-V7.0.1/plugins/org.talend.designer.components.localprovider_7.0.1.20180411_1414/components/tExtractJSONFields/tExtractJSONFields_java.xml",
+		"/C/Users/RRU_CN1/Desktop/TOS_BD-20180411_1414-V7.0.1/plugins/org.talend.designer.components.localprovider_7.0.1.20180411_1414/components/tExtractJSONFields/tExtractJSONFields_messages.properties",
+		"/C/Users/RRU_CN1/Desktop/TOS_BD-20180411_1414-V7.0.1/user_components/tSampleRow/tSampleRow_main.javajet",
+		"/C/Users/RRU_CN1/Desktop/TOS_BD-20180411_1414-V7.0.1/user_components/tSampleRow/tSampleRow_begin.javajet",
+		"/C/Users/RRU_CN1/Desktop/TOS_BD-20180411_1414-V7.0.1/user_components/tSampleRow/tSampleRow_end.javajet",
+		"/C/Users/RRU_CN1/Desktop/TOS_BD-20180411_1414-V7.0.1/user_components/tExtractField/tExtractField_begin.javajet",
+		"/C/Users/RRU_CN1/Desktop/TOS_BD-20180411_1414-V7.0.1/user_components/tExtractField/tExtractField_main.javajet",
+		"/C/Users/RRU_CN1/Desktop/TOS_BD-20180411_1414-V7.0.1/user_components/tExtractField/tExtractField_end.javajet",
+		"/C/Users/RRU_CN1/Desktop/TOS_BD-20180411_1414-V7.0.1/user_components/tExtractField/tExtractField_java.xml",
+		"/C/Users/RRU_CN1/Desktop/TOS_BD-20180411_1414-V7.0.1/user_components/tExtractField/tExtractField_icon32.png",
+		"/C/Users/RRU_CN1/Desktop/TOS_BD-20180411_1414-V7.0.1/user_components/tTutorialRow/tTutorialRow_java.xml",
+		"/C/Users/RRU_CN1/Desktop/TOS_BD-20180411_1414-V7.0.1/user_components/tTutorialRow/tTutorialRow_main.javajet",
+		"/C/Users/RRU_CN1/Desktop/TOS_BD-20180411_1414-V7.0.1/user_components/tTutorialRow/tTutorialRow_begin.javajet",
+		"/C/Users/RRU_CN1/Desktop/TOS_BD-20180411_1414-V7.0.1/user_components/tTutorialRow/tTutorialRow_icon32.png",
+		"/C/Users/RRU_CN1/Desktop/TOS_BD-20180411_1414-V7.0.1/user_components/tTutorialRow/tTutorialRow_messages.properties",
+		"/C/Users/RRU_CN1/Desktop/TOS_BD-20180411_1414-V7.0.1/plugins/org.talend.designer.components.bigdata_7.0.1.20180411_1414/components/tMongoDBConnection/tMongoDBConnection_java.xml",
+		"/C/Users/RRU_CN1/Desktop/TOS_BD-20180411_1414-V7.0.1/plugins/org.talend.designer.components.bigdata_7.0.1.20180411_1414/components/tMongoDBConnection/tMongoDBConnection_messages.properties",
+		"/C/Users/RRU_CN1/Desktop/TOS_BD-20180411_1414-V7.0.1/plugins/org.talend.designer.components.bigdata_7.0.1.20180411_1414/components/tMongoDBInput/tMongoDBInput_java.xml",
+		"/C/Users/RRU_CN1/Desktop/TOS_BD-20180411_1414-V7.0.1/plugins/org.talend.designer.components.bigdata_7.0.1.20180411_1414/components/tMongoDBInput/tMongoDBInput_messages_en.properties",
+		"/C/Users/RRU_CN1/Desktop/TOS_BD-20180411_1414-V7.0.1/plugins/org.talend.designer.components.bigdata_7.0.1.20180411_1414/components/tMongoDBInput/tMongoDBInput_begin.javajet",
+		"/C/Users/RRU_CN1/Desktop/TOS_BD-20180411_1414-V7.0.1/plugins/org.talend.designer.components.localprovider_7.0.1.20180411_1414/components/tMap/tMap_java.xml",
+		"/C/Users/RRU_CN1/Desktop/TOS_BD-20180411_1414-V7.0.1/plugins/org.talend.designer.esb.components.ws.consumer_7.0.1.20180411_1414/components/tESBConsumer/tESBConsumer_java.xml",
+		"/E/user_components/tTutorialRow/tTutorialRow_java.xml",
+		"/E/user_components/TalendComponents.sublime-project",
+		"/E/user_components/tSampleRow/tSampleRow_begin.javajet",
+		"/E/user_components/tSampleRow/tSampleRow_main.javajet",
+		"/E/user_components/tSampleRow/tSampleRow_messages.properties",
+		"/E/user_components/tSampleRow/tSampleRow_end.javajet",
+		"/E/user_components/tSampleRow/tSampleRow_java.xml",
+		"/E/user_components/tSampleRow/tSampleRow_icon32.png",
+		"/E/user_components/tTutorialRow/tTutorialRow_icon32.png",
+		"/E/user_components/tTutorialRow/tTutorialRow_begin.javajet",
+		"/E/user_components/tTutorialRow/tTutorialRow_main.javajet",
+		"/E/user_components/tTutorialRow/tTutorialRow_messages.properties",
+		"/E/user_components/tTutorialRow/tTutorialRow_end.javajet",
+		"/C/Users/RRU_CN1/AppData/Roaming/Sublime Text 3/Packages/User/javajet.sublime-syntax",
+		"/C/Users/RRU_CN1/Desktop/Java Server Pages (JSP).sublime-syntax",
+		"/C/Users/RRU_CN1/Desktop/syntax_test_jsp.jsp",
+		"/C/Users/RRU_CN1/AppData/Roaming/Sublime Text 3/Packages/User/Java.sublime-package",
+		"/C/Users/RRU_CN1/AppData/Roaming/Sublime Text 3/Installed Packages/JSTL syntax.sublime-package",
+		"/C/Users/RRU_CN1/AppData/Roaming/Sublime Text 3/Packages/User/Java.sublime-settings",
+		"/C/Users/RRU_CN1/Downloads/cvnet_proxy.pac",
+		"/C/Users/RRU_CN1/Downloads/proxy.pac"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 181,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								181,
+								181
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 230.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mvn_exec":
+	{
+		"height": 321.0
+	},
+	"pinned_build_system": "Maven",
+	"project": "NaRi.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 249.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
