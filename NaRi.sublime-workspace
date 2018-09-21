@@ -7,6 +7,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "NaRi.sublime-project",
+			"settings":
+			{
+				"buffer_size": 1375,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "Maven",
 	"build_system_choices":
@@ -136,6 +144,7 @@
 	},
 	"expanded_folders":
 	[
+		"/home/romuald/Projects/NaRi"
 	],
 	"file_history":
 	[
@@ -264,8 +273,39 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "NaRi.sublime-project",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1375,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1366,
+								1366
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],

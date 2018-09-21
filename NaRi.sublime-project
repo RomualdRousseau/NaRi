@@ -34,6 +34,10 @@
                     "shell_cmd": "mvn clean install"
                 },
                 {
+                    "name": "deploy",
+                    "shell_cmd": "mvn clean package deploy"
+                },
+                {
                     "name": "commit changes",
                     "shell_cmd": "mvn scm:checkout"
                 },
@@ -42,12 +46,16 @@
                     "shell_cmd": "mvn scm:checkin"
                 },
                 {
-                    "name": "deploy",
-                    "shell_cmd": "mvn clean package deploy"
+                    "name": "prepare release",
+                    "shell_cmd": "mvn clean package release:prepare"
+                },
+                {
+                    "name": "deploy release",
+                    "shell_cmd": "mvn release:perform -P release"
                 },
                 {
                     "name": "build documentation",
-                    "shell_cmd": "mvn clean package -P documentation"
+                    "shell_cmd": "mvn site -P documentation"
                 }
             ]
         }

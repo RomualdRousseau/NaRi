@@ -119,8 +119,9 @@
         </plugins>
       </build>
     </profile>
+
     <profile>
-      <id>documentation</id>
+      <id>release</id>
       <activation>
         <property>
           <name>release</name>
@@ -168,6 +169,36 @@
                 <configuration>
                   <passphraseServerId>gpg.passphrase</passphraseServerId>
                 </configuration>
+              </execution>
+            </executions>
+          </plugin>
+        </plugins>
+      </build>
+      <reporting>
+        <plugins>
+          <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-javadoc-plugin</artifactId>
+            <version>3.0.1</version>
+          </plugin>
+        </plugins>
+      </reporting>
+    </profile>
+
+    <profile>
+      <id>documentation</id>
+      <build>
+        <plugins>
+          <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-javadoc-plugin</artifactId>
+            <version>3.0.1</version>
+            <executions>
+              <execution>
+                <id>attach-javadocs</id>
+                <goals>
+                  <goal>jar</goal>
+                </goals>
               </execution>
             </executions>
           </plugin>
